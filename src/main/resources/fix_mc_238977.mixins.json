@@ -2,9 +2,9 @@
   "required": true,
   "minVersion": "0.8",
   "package": "com.plusls.fix.mc238977.mixin",
-  "compatibilityLevel": "JAVA_16",
+  "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "MixinReadOnlyChunk"
+    "MixinGlowSquidEntity"
   ],
   "injectors": {
     "defaultRequire": 1
